@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
       "image": "images/ramen.jpg",
       "title": "Ramen",
       "waktu": "50 menit",
-      "status": "menunggu"
+      "status": "stop"
     },
     {
       "image": "images/takoyaki.jpg",
