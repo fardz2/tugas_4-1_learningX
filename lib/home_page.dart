@@ -80,7 +80,7 @@ class HomePage extends StatelessWidget {
                         border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(15),
                         ),
-                        hintText: 'Search clothes',
+                        hintText: 'Search',
                         prefixIcon: const Icon(Icons.search),
                       ),
                       minLines: 1,
